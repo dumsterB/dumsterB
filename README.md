@@ -9,3 +9,4 @@
 <h3 align="left">Languages and Tools:</h3>
 Js, Vue js ,Node js
 
+![Snake animation](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg)
