@@ -7,6 +7,6 @@
 <h3 align="center">👀 Since childhood, my passion has been to create something new on the computer. Occasionally, I started to reach more achievement at programming. Currently, I have experience as frontend and backend engineer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-Js, Vue js ,Node js
+Java Script, Vue js ,Node js
 
 ![Snake animation](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg)
