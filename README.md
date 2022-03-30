@@ -4,7 +4,7 @@
     </a>
   </h1>
 <h1 align="center">Hi 🫂, I'm Abduvaliev Bexruz</h1>
-<h3 align="center">👀 Since childhood, my passion has been to create something new on the computer. Occasionally, I started to reach more achievement at programming. Currently, I have experience as frontend and backend engineer</h3>
+<h3 align="center">CEO in my life :)</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 Java Script, Vue js ,Node js
