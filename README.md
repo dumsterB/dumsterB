@@ -4,9 +4,6 @@
     </a>
   </h1>
 <h1 align="center">Hi 🫂, I'm Abduvaliev Bexruz</h1>
-<h3 align="center">CEO in my life :)</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-Java Script, Vue js ,Node js
 
 ![Snake animation](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg)
